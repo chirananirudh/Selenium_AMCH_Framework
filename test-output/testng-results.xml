@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-28T23:48:41 EST" name="All Test Suite" finished-at="2023-01-28T23:48:57 EST" duration-ms="15495">
+    <groups>
+    </groups>
+    <test started-at="2023-01-28T23:48:41 EST" name="SeleniumFramework" finished-at="2023-01-28T23:48:57 EST" duration-ms="15495">
+      <class name="com.tmb.tests.PaymentTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tmb.tests.PaymentTest@10e31a9a]" started-at="2023-01-28T23:48:42 EST" name="setUp" finished-at="2023-01-28T23:48:54 EST" duration-ms="12036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2(com.tmb.testdata.TestData)[pri:0, instance:com.tmb.tests.PaymentTest@10e31a9a]" started-at="2023-01-28T23:48:54 EST" name="test2" description="To check something" data-provider="supplyParallelData" finished-at="2023-01-28T23:48:56 EST" duration-ms="2192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.tmb.testdata.TestData@64513d31]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tmb.tests.PaymentTest@10e31a9a]" started-at="2023-01-28T23:48:56 EST" name="tearDown" finished-at="2023-01-28T23:48:57 EST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tmb.tests.PaymentTest -->
+      <class name="com.tmb.tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tmb.tests.HomePageTest@4466af20]" started-at="2023-01-28T23:48:42 EST" name="setUp" finished-at="2023-01-28T23:48:50 EST" duration-ms="8268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tmb.tests.HomePageTest@4466af20]" started-at="2023-01-28T23:48:42 EST" name="setUp" finished-at="2023-01-28T23:48:50 EST" duration-ms="7605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="titleValidationTest(com.tmb.testdata.TestData)[pri:0, instance:com.tmb.tests.HomePageTest@4466af20]" started-at="2023-01-28T23:48:50 EST" name="titleValidationTest" description="To check whether the user the title of orangehrm website homepage is displayed correctly" data-provider="supplyParallelData" finished-at="2023-01-28T23:48:53 EST" duration-ms="2941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.tmb.testdata.TestData@705eb071]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidationTest -->
+        <test-method signature="titleValidationTest(com.tmb.testdata.TestData)[pri:0, instance:com.tmb.tests.HomePageTest@4466af20]" started-at="2023-01-28T23:48:50 EST" name="titleValidationTest" description="To check whether the user the title of orangehrm website homepage is displayed correctly" data-provider="supplyParallelData" finished-at="2023-01-28T23:48:53 EST" duration-ms="2809" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.tmb.testdata.TestData@22743ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tmb.tests.HomePageTest@4466af20]" started-at="2023-01-28T23:48:53 EST" name="tearDown" finished-at="2023-01-28T23:48:54 EST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tmb.tests.HomePageTest@4466af20]" started-at="2023-01-28T23:48:53 EST" name="tearDown" finished-at="2023-01-28T23:48:54 EST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tmb.tests.HomePageTest -->
+    </test> <!-- SeleniumFramework -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
