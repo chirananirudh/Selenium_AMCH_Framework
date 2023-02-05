@@ -1,22 +1,21 @@
 # Selenium_AMCH_Framework
 
-Java,
+Java
 
-Selenium,
+Selenium
 
-TestNG with ITestListener,
+TestNG with ITestListener
 
-Maven,
+Maven
 
-Page Object Model Design Pattern,
+Page Object Model Design Pattern
 
-Owner Library File -> To handle values from Properties files,
+Owner Library File -> To handle values from Properties files
 
-Extent Report with Screenshots,
+Extent Report with Screenshots
 
-FrameworkAnnotation -> To send default values for annotations\n
+FrameworkAnnotation -> To send default values for annotations
 
-Thread Concept -> Included to execute Scripts in Parallel\n
+Thread Concept -> Included to execute Scripts in Parallel
 
 Test Data Supplier -> To handle and process data from Excel Sheet
-
