@@ -1,11 +1,14 @@
 # Selenium_AMCH_Framework
 
 Java,
+
 Selenium,
+
 TestNG with ITestListener,
+
 Maven,
 
-PAge Object Model Design Pattern,
+Page Object Model Design Pattern,
 Owner Library File -> To handle values from Properties files,
 Extent Report with Screenshots,
 FrameworkAnnotation -> To send default values for annotations
